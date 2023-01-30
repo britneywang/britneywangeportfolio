@@ -1,2 +1,1 @@
-# britneywangeportfolio
-Portfolio for IST related projects
+# britneywang.portfolio
